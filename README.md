@@ -25,6 +25,9 @@
 ## 🎯 Resumen 
 Este proyecto desarrolla un modelo de clasificación para predecir la deserción de clientes (Churn) en una compañía de telecomunicaciones. El enfoque principal fue identificar patrones de comportamiento que permitan a la empresa ejecutar campañas de retención más efectivas y dirigidas.
 
+## **1. Introducción al Modelado**
+En esta fase del proyecto, el objetivo principal es desarrollar un modelo de clasificación capaz de predecir qué clientes tienen una alta probabilidad de abandonar los servicios de la compañía. Se prioriza la métrica de **Recall** para asegurar la detección de la mayor cantidad de desertores potenciales.
+
 ---
 
 ## 📂 Estructura del Proyecto
