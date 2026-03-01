@@ -1,5 +1,6 @@
 # Telecom-X---Parte-2
 Analizar el churn (cancelación) de clientes de una empresa de telecomunicaciones
+
 ![Python 3.10](https://img.shields.io/badge/Python-3.10-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Pandas Data Analysis](https://img.shields.io/badge/Pandas-Data_Analysis-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Seaborn Visualization](https://img.shields.io/badge/Seaborn-Visualization-444444?style=flat-square)
@@ -26,10 +27,10 @@ Licencia
 
 Autora
 
-🎯 Propósito del Proyecto
+##🎯 Propósito del Proyecto
 El objetivo es predecir el churn (cancelación) de clientes mediante modelos de clasificación. Esto permite identificar proactivamente a los usuarios en riesgo y diseñar estrategias de retención basadas en datos reales de comportamiento y servicio.
 
-📂 Estructura del Proyecto
+##📂 Estructura del Proyecto
 TU_CUADERNO.ipynb: Cuaderno con el proceso completo de limpieza, EDA y modelado.
 
 TU_DATASET.csv: Base de datos procesada utilizada para el entrenamiento.
