@@ -22,7 +22,7 @@
 
 ---
 
-## 🎯 Resumen Ejecutivo
+## 🎯 Resumen 
 Este proyecto desarrolla un modelo de clasificación para predecir la deserción de clientes (Churn) en una compañía de telecomunicaciones. El enfoque principal fue identificar patrones de comportamiento que permitan a la empresa ejecutar campañas de retención más efectivas y dirigidas.
 
 ---
